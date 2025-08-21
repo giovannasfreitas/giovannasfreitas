@@ -64,7 +64,7 @@
 <br>
  </div>
 
- ### Frameworks E Bibliotecas
+ ### Bibliotecas
 
 <img 
     align="left" 
