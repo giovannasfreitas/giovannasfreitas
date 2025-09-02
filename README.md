@@ -5,7 +5,7 @@
 • Graduando em Análise e Desenvolvimento de Sistemas na UNINTER 
 <br>
 
-• Atualmente estudando Banco de Dados Relacionais 
+• Atualmente estudando JavaScript
 
 
 ##  Linguagens
