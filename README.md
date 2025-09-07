@@ -109,7 +109,7 @@
 
 ##  Estatísticas
 
- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=giovannasfreitas&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=false" alt="Anurag's github stats" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannasfreitas&layout=compact&theme=midnight-purple&hide_border=false&custom_title=Tecnologias" /></a> 
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannasfreitas&layout=compact&theme=midnight-purple&hide_border=false&custom_title=Tecnologias" /></a> 
 
 
 ### Contatos
