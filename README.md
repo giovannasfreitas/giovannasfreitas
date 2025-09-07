@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Giovanna Freitas
 
-**`Desenvolvedora Backend`**
+**`Desenvolvedora Frontend`**
 
 • Graduando em Análise e Desenvolvimento de Sistemas na UNINTER 
 <br>
