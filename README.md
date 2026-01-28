@@ -2,11 +2,8 @@
 
 **`Desenvolvedora Frontend`**
 
-• Graduando em Análise e Desenvolvimento de Sistemas na UNINTER 
+• Graduando em Engenharia de Controle e Automação - UFPE
 <br>
-
-• Atualmente estudando JavaScript
-
 
 ##  Linguagens
 
