@@ -1,7 +1,5 @@
 # 👩🏻‍💻 Giovanna Freitas
 
-**`Desenvolvedora Frontend`**
-
 • Graduando em Engenharia de Controle e Automação - UFPE
 <br>
 
